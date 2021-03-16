@@ -1,0 +1,2 @@
+# Notebooks to Publish Arduino Reports
+Notebooks to support [Medium](https://paul-bruffett.medium.com/iot-azure-pipeline-part-2-7eff893e9b81) article for preparing Arduino data in CosmosDB and publish it using Bokeh plots.
